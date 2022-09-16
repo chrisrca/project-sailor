@@ -17,6 +17,8 @@ public class MovementController : MonoBehaviour
     public AnimatedSpriteRenderer spriteRendererRight;
     public AnimatedSpriteRenderer spriteRendererDeath;
     private AnimatedSpriteRenderer activeSpriteRenderer;
+    public AudioSource bump;
+    public AudioSource death;
 
     private void Awake()
     {
@@ -41,6 +43,7 @@ public class MovementController : MonoBehaviour
         } else
         {
             SetDirection(Vector2.zero, activeSpriteRenderer);
+            bump.Play();
         }
     }
 
@@ -70,6 +73,7 @@ public class MovementController : MonoBehaviour
         if (other.gameObject.layer == LayerMask.NameToLayer("Explosion"))
         {
             DeathSequence();
+            death.Play();
         }
     }
 

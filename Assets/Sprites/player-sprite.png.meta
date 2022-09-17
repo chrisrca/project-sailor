@@ -1,0 +1,1178 @@
+fileFormatVersion: 2
+guid: 528ec350c1a5de945a7dab049a76684d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player-sprite-walk-down-1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 314
+        width: 32
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a6c58b4c26fad4d8c79821dc93b64b
+      internalID: -1938882953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-walk-down-2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 315
+        width: 32
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd95883a6488734aa6e74208ae6ee97
+      internalID: 762632132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-walk-down-3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 314
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76459cb87b48dcd41969178d0f40970a
+      internalID: 1481914329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-walk-down-left-1
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 314
+        width: 43
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959d18948cd3849469c586ccb0159a4d
+      internalID: -527666440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-walk-down-left-2
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 314
+        width: 31
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4114653ac1f664b41a9229d9cb99f0dd
+      internalID: 2083067897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-walk-down-left-3
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 318
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9289ed692dff3845b4003e6aca4ac57
+      internalID: -441272495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-run-down-1
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 314
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d683c4091a334489ab32f4781b532e
+      internalID: -1208332771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-run-down-2
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 319
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759ed7ec261ded84f8e6a675b98884a5
+      internalID: -675359959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-run-down-3
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 314
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84148666d57244a40b6aa9fa8d63a744
+      internalID: -1365047787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-run-down-left-1
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 317
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77be24c517cd00a4997583dd07d0f421
+      internalID: -941400353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-run-down-left-2
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 315
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33f21f35d21be346bd23e82709b6ae3
+      internalID: -1978348097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-run-down-left-3
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 319
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412c1a523edd65f48871d064e44c8bdd
+      internalID: -1397024039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-walk-left-1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 216
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb195f86d444667418b70a3b30e584f1
+      internalID: -303854792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-walk-left-2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 215
+        width: 30
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11427a490d4b5e34d8af5c6fb80c074a
+      internalID: -1123936929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-walk-left-3
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 216
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b849cf49b5ed442b8a4f249feca227
+      internalID: -2020709899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-walk-down-right-1
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 214
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be31435ee9b8294fa58d813cb5239d8
+      internalID: 1585962180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-walk-down-right-2
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 214
+        width: 30
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4960d4468d9da43a6af360ce9477c8
+      internalID: -1695492607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-walk-down-right-3
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 218
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31bab9aac633c84a8208b994b35f7af
+      internalID: -737491765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-run-left-1
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 219
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32654a7ab79526a428d50b034e60f96e
+      internalID: 978107858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-run-left-2
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 214
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32facaf7f9d50a044aacfc06be0ee874
+      internalID: 2079888967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-run-left-3
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 220
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9042ceb871fc094b94b7b5093a1cd91
+      internalID: 1827878240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-run-down-right-1
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 217
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db685e1a9200794e943915b5492a040
+      internalID: 1711476696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-run-down-right-2
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 215
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c632317e93c60e4591547bbb5e8f423
+      internalID: -585467735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-run-down-right-3
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 219
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087d14bbe599e5347ad7881627bf019f
+      internalID: -1522913633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-walk-right-1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 116
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f6fe9d1253b244793c0138a68b670d
+      internalID: -375897584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-walk-right-2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 115
+        width: 30
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e7685e9fa25bd45b64799bd504f084
+      internalID: 138053560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-walk-right-3
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 116
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4c99790f2e897489e69266757de6fe
+      internalID: 530914128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-walk-up-left-1
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 119
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8067f04ca2b81ce4793e36ce8623ce15
+      internalID: -463945855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-walk-up-left-2
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 114
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41dd192eefb9c6d4a8b21f5ed5a6d536
+      internalID: 1804814725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-walk-up-left-3
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 114
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7c677acc6c63342baf61ae638659bb
+      internalID: 1337569410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-run-right-1
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 118
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6bb74dbccb78c4e83dc5019d282e22
+      internalID: 401374549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-run-right-2
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 114
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fa7921fdce42c448012ff8283dab4f
+      internalID: 849031678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-run-right-3
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 120
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d775cc0e92eb8144182f39459fbf8fac
+      internalID: 502674820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-run-up-left-1
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 118
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59307f13bbab864f8538a18696d1c0b
+      internalID: -1240548230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-run-up-left-2
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 115
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b890d7baebe8d44943ee59c0d6ed92
+      internalID: -1878865897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-run-up-left-3
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 114
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed669711b874154a8afdc39afe6d951
+      internalID: -1812422301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-walk-up-1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 14
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0609485d8d8994e80879171d0e1b58
+      internalID: -480747968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-walk-up-2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 16
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9e447452578b947b6af58a82a52f6e
+      internalID: -1293025160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-walk-up-3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 14
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c816c2855b4a7841bed5b1a23810403
+      internalID: -1635224198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-walk-up-right-1
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 19
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ffaf21aef0aa34ebd7bc8d1504ecbf
+      internalID: 839059541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-walk-up-right-2
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 14
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1823a25b39971dd418aeb3cdd4a670cf
+      internalID: -1756386026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-walk-up-right-3
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 14
+        width: 38
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d57a1b312749a4b98bc5fd80e32655
+      internalID: -1300284012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-run-up-1
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 14
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477daae991a14b1418eb0ff32c700615
+      internalID: 1609789242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-run-up-2
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 18
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33914f576a5f5440aa41b97eca54cec
+      internalID: -1280706086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-run-up-3
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 16
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75aac83758178d942b5539608ea598f6
+      internalID: 395162428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-run-up-right-1
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 18
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee392f29b22dd2418a1bf663e515dcc
+      internalID: 1545575522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-run-up-right-2
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 15
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b409cacc61b1cd54ebfe81d5350cb509
+      internalID: 507898796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-sprite-run-up-right-3
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 14
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd478da383d6e545870f98cf992ac7e
+      internalID: -1472577287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      player-sprite-walk-down-right-3: -737491765
+      player-sprite-walk-up-left-3: 1337569410
+      player-sprite-run-right-2: 849031678
+      player-sprite-walk-up-left-1: -463945855
+      player-sprite-walk-up-1: -480747968
+      player-sprite-walk-left-2: -1123936929
+      player-sprite-walk-down-left-3: -441272495
+      player-sprite-run-left-3: 1827878240
+      player-sprite-run-down-right-2: -585467735
+      player-sprite-walk-down-right-2: -1695492607
+      player-sprite-walk-down-3: 1481914329
+      player-sprite-walk-down-left-1: -527666440
+      player-sprite-run-down-left-1: -941400353
+      player-sprite-run-down-left-2: -1978348097
+      player-sprite-walk-down-right-1: 1585962180
+      player-sprite-run-right-1: 401374549
+      player-sprite-run-down-2: -675359959
+      player-sprite-walk-up-right-3: -1300284012
+      player-sprite-run-left-2: 2079888967
+      player-sprite-walk-up-left-2: 1804814725
+      player-sprite-walk-left-1: -303854792
+      player-sprite-walk-down-2: 762632132
+      player-sprite-walk-up-right-2: -1756386026
+      player-sprite-run-up-left-2: -1878865897
+      player-sprite-walk-down-1: -1938882953
+      player-sprite-walk-up-right-1: 839059541
+      player-sprite-walk-right-1: -375897584
+      player-sprite-walk-down-left-2: 2083067897
+      player-sprite-walk-right-3: 530914128
+      player-sprite-run-down-right-1: 1711476696
+      player-sprite-run-up-right-3: -1472577287
+      player-sprite-run-down-3: -1365047787
+      player-sprite-run-up-1: 1609789242
+      player-sprite-run-down-left-3: -1397024039
+      player-sprite-run-down-right-3: -1522913633
+      player-sprite-run-up-2: -1280706086
+      player-sprite-run-down-1: -1208332771
+      player-sprite-run-up-left-3: -1812422301
+      player-sprite-walk-left-3: -2020709899
+      player-sprite-run-left-1: 978107858
+      player-sprite-walk-up-2: -1293025160
+      player-sprite-walk-right-2: 138053560
+      player-sprite-run-up-3: 395162428
+      player-sprite-run-up-right-1: 1545575522
+      player-sprite-run-up-right-2: 507898796
+      player-sprite-run-right-3: 502674820
+      player-sprite-walk-up-3: -1635224198
+      player-sprite-run-up-left-1: -1240548230
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

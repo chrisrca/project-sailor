@@ -16,7 +16,7 @@ public class camerafollow : MonoBehaviour
 
     void Start() 
     {
-        mainCamera.transform.position = camcoords;
+        mainCamera.transform.position = new Vector3(-6f, 5f, -10f);
     }
 
     void Update()

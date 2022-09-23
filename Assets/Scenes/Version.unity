@@ -483,7 +483,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.9, y: -742}
+  m_AnchoredPosition: {x: 0, y: -724}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &992030537
@@ -627,8 +627,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.036183, y: -78.758}
-  m_SizeDelta: {x: 880.33, y: 1270.2}
+  m_AnchoredPosition: {x: 0.00043952, y: -219.30695}
+  m_SizeDelta: {x: 881.57, y: 2325.0115}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1065433274
 MonoBehaviour:
@@ -698,10 +698,22 @@ MonoBehaviour:
     Added Night Version of Map
 
 
+    Version 0.0.3.0s3
+
+    Additions
+
+    Added
+    Isometric View
+
+    Added New Sprites (Character, Tree)
+
+    Added Timer
+
+
     Controls
 
-    Movement: Up,
-    Down, Left, Right
+    Movement:
+    Up, Down, Left, Right
 
     Alternate Movement: W,A,S,D
 
@@ -1005,6 +1017,6 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.587, y: -516.5682}
-  m_SizeDelta: {x: 881.5741, y: 1552.1353}
+  m_AnchoredPosition: {x: -0.587, y: -769.5128}
+  m_SizeDelta: {x: 881.5741, y: 2058.0244}
   m_Pivot: {x: 0.5, y: 0.5}

@@ -1,3 +1,6 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 public class ItemPickup : MonoBehaviour
 {
     public enum ItemType
@@ -13,7 +16,7 @@ public class ItemPickup : MonoBehaviour
 
     private void OnItemPickup(GameObject player)
     {
-        
+
         switch (type)
         {
             case ItemType.ExtraBomb:

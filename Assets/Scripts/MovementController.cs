@@ -32,7 +32,6 @@ public class MovementController : MonoBehaviour
 
     public AnimatedSpriteRenderer spriteRendererDeath;
     private AnimatedSpriteRenderer activeSpriteRenderer;
-    public AudioSource bump;
     public AudioSource death;
 
     public Vector3 CameraCoordinates = new Vector3(-6f, 5f, -10f);
@@ -86,7 +85,6 @@ public class MovementController : MonoBehaviour
             {
                 speed = 3f;
                 SetDirection(Vector2.zero, activeSpriteRenderer);
-                bump.Play();
             } 
         } else {
             if (Input.GetKey(inputUp) && Input.GetKey(inputLeft)) 
@@ -129,7 +127,6 @@ public class MovementController : MonoBehaviour
             {
                 speed = 1.75f;
                 SetDirection(Vector2.zero, activeSpriteRenderer);
-                bump.Play();
             }
         }
         CameraCoordinates = rigidbody.position;

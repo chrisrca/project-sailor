@@ -22,6 +22,7 @@ public class AnimatedSpriteRenderer : MonoBehaviour
 
     private void OnEnable()
     {
+        spriteRenderer.sprite = animationSprites[animationFrame];
         spriteRenderer.enabled = true;
     }
 

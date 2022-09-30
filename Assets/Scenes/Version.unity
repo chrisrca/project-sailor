@@ -483,7 +483,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -724}
+  m_AnchoredPosition: {x: 0, y: -896}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &992030537
@@ -710,16 +710,26 @@ MonoBehaviour:
     Added Timer
 
 
+    Version
+    0.0.4.0s4
+
+    Additions
+
+    Added Pathfinding for enemy
+
+    Created new map
+    for the player
+
+    Added Sprite for the house
+
+
     Controls
 
-    Movement:
-    Up, Down, Left, Right
+    Movement: 
+    W,A,S,D
 
-    Alternate Movement: W,A,S,D
+    Sprint: Shift
 
-    Drop Bomb: Shift
-
-    Alternate
     Bomb: Space Bar'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}

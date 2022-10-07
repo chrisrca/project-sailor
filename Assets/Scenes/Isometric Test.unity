@@ -2343,6 +2343,8 @@ GameObject:
   - component: {fileID: 854949622}
   - component: {fileID: 854949621}
   - component: {fileID: 854949620}
+  - component: {fileID: 854949623}
+  - component: {fileID: 854949624}
   m_Layer: 3
   m_Name: Enemy
   m_TagString: Untagged
@@ -2450,6 +2452,35 @@ MonoBehaviour:
   tagPenalties: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   graphMask:
     value: -1
+--- !u!114 &854949623
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 854949618}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8607f4d880e48454caafee807f1781ab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  death: {fileID: 1645224339}
+--- !u!70 &854949624
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 854949618}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_Size: {x: 0.5, y: 1}
+  m_Direction: 0
 --- !u!1 &977114009
 GameObject:
   m_ObjectHideFlags: 0
@@ -3409,7 +3440,7 @@ MonoBehaviour:
     m_Bits: 64
   explosionDuration: 1
   explosionRadius: 1
-  destructibleTiles: {fileID: 0}
+  destructibleTiles: {fileID: 1566139500}
   destructiblePrefab: {fileID: 4101579498761452989, guid: d977093b1121592428f17752fd0b51ad, type: 3}
 --- !u!114 &1475014582
 MonoBehaviour:
